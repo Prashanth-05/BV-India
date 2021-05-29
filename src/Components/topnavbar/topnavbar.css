@@ -1,0 +1,9 @@
+.topnavbar{
+    background-color: rgb(194, 255, 203); 
+    height: 20px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    justify-content: space-evenly;
+}
+
